@@ -5,3 +5,5 @@ I also add a chart to show the recent 30 days price and average price.
 
 //
 This project had used JavaScript, CSS, of course HTML. 
+
+![image](https://user-images.githubusercontent.com/63699663/186831234-03d85462-6da6-4ce4-9e38-b282f285792d.png)
